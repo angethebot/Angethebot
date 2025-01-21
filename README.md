@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 I am an Economist by training and a Data Scientist by profession. My main research interests focus on microeconomics and econometrics—I enjoy exploring various economic topics ranging from consumer behavior to population policy and ESG. Thanks to rigorous training in Econometrics and Statistics, I have mastered the foundations of Data Science and enjoy applying analytical techniques to uncover insights, solve complex problems, and drive impactful decision-making.
+
 🔭 I recently finished a project on Optimizing Inventory Management with Demand Forecastin, learning about machine learning models for demand forecasting, like Prophet, LSTM, and Regressions. <br><br>
 🌱 I’m currently learning deeper about machine learning in business settings <br><br>💬 Welcome any discussion about better tools for data reporting and marketing anaytics!<br><br>
 📫 How to reach me angelina.yuxin1106@gmail.com<br><br>
