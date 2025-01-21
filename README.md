@@ -5,11 +5,14 @@
 I am an Economist by training and a Data Scientist by profession. My main research interests focus on microeconomics and econometrics—I enjoy exploring various economic topics ranging from consumer behavior to population policy and ESG. Thanks to rigorous training in Econometrics and Statistics, I have mastered the foundations of Data Science and enjoy applying analytical techniques to uncover insights, solve complex problems, and drive impactful decision-making.
 
 🔭 I recently finished a project on Optimizing Inventory Management with Demand Forecastin, learning about machine learning models for demand forecasting, like Prophet, LSTM, and Regressions. <br><br>
-🤔 I'm currently working on enriching my GitHub repositories with my previous projetcs and finding a better way to present them.
+🤔 I'm currently working on enriching my GitHub repositories with my previous projetcs and finding a better way to present them. Shoot me a message if you have any recommendations!<br><br>
 🌱 I’m currently also learning deeper about machine learning in business settings <br><br>
 💬 Welcome any discussion about better tools for data reporting and marketing anaytics!<br><br>
 📫 How to reach me angelina.yuxin1106@gmail.com<br><br>
 ⚡ Fun fact I enjoy anything artistic - music, dancing, and video editing! I am a self-taught designer and enjoy anything involving creativity!
+
+# 📊 My project list (WIP)
+
 
 # 🌐 Connect With Me:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuxin-gong-5408221aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuxin-gong-5408221aa/" height="30" width="40" /></a>
