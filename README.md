@@ -2,7 +2,7 @@
 <h3 align="center">Economist and Aspiring Data Scientist with Hands-on Experience in Machine Learning and Marketing Anlytics</h3>
 
 # 💫 About Me:
-🔭 I recently finished a project on Optimizing Inventory Management with Demand Forecastin, learning about machine learning models for demand forecasting, like Prophet, LSTM, and Regressions. g<br><br>
+🔭 I recently finished a project on Optimizing Inventory Management with Demand Forecastin, learning about machine learning models for demand forecasting, like Prophet, LSTM, and Regressions. <br><br>
 🌱 I’m currently learning deeper about machine learning in business settings <br><br>💬 Welcome any discussion about better tools for data reporting and marketing anaytics!<br><br>
 📫 How to reach me angelina.yuxin1106@gmail.com<br><br>
 ⚡ Fun fact I enjoy anything artistic - music, dancing, and video editing! I am a self-taught designer and enjoy anything involving creativity!
