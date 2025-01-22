@@ -13,6 +13,9 @@ I am an Economist by training and a Data Scientist by profession. My main resear
 
 # 📊 My project list (WIP)
 
+## SQL Challenge Projects:
+### 
+
 
 # 🌐 Connect With Me:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuxin-gong-5408221aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuxin-gong-5408221aa/" height="30" width="40" /></a>
