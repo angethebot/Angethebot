@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angie</h1>
-<h3 align="center">Economist and Aspiring Data Scientist with Hands-on Experience in Machine Learning and Marketing Anlytics</h3>
+<h3 align="center">Economist and Aspiring Data Scientist with Hands-on Experience in Marketing Anlytics and Machine Learning </h3>
 
 # 💫 About Me:
 I am an Economist by training and a Data Scientist by profession. My main research interests focus on microeconomics and econometrics—I enjoy exploring various economic topics ranging from consumer behavior to population policy and ESG. Thanks to rigorous training in Econometrics and Statistics, I have mastered the foundations of Data Science and enjoy applying analytical techniques to uncover insights, solve complex problems, and drive impactful decision-making.
