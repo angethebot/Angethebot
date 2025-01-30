@@ -14,6 +14,12 @@ I am an Economist by training and a Data Scientist by profession. My main resear
 # 📊 My Data Projects (WIP)
 ## SQL Challenge Projects:
 
+# 📊 My Economics Research Projects<br>
+💙 Consumer Behaviour<br>
+💙 ESG and Multi-enterprise<br>
+💙 Health and Population<br>
+
+
 # 📊 My Creativity Projetcs (WIP)
 💛 Graph Visualizatioon & Report Design: [Facing challenges, finding opportunity: Young people in Canada navigating a new employment reality](https://uwaterloo.ca/youth-and-innovation/our-research/facing-challenges-finding-opportunity-young-people-canada)<br>
 💛 Email Design/Graphic Design:<br>
