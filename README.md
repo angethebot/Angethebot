@@ -9,9 +9,12 @@ I am an Economist by training and a Data Scientist by profession. My main resear
 🌱 I’m currently also learning deeper about machine learning in business settings <br><br>
 💬 Welcome any discussion about better tools for data reporting and marketing anaytics!<br><br>
 📫 How to reach me angelina.yuxin1106@gmail.com<br><br>
-⚡ Fun fact I enjoy anything artistic - music, dancing, and video editing! I am a self-taught designer and enjoy anything involving creativity!
+⚡ Fun fact I enjoy anything artistic - music, dancing, and video editing! I am a self-taught designer and enjoy anything involving creativity! 
 
-# 📊 My project list (WIP)
+# 📊 My Project list (WIP)
+
+# 📊 My Creativity list (WIP)
+🌱 Graph Visualizatioon & Report Design [ Facing challenges, finding opportunity: Young people in Canada navigating a new employment reality]([https://github.com](https://uwaterloo.ca/youth-and-innovation/our-research/facing-challenges-finding-opportunity-young-people-canada))
 
 ## SQL Challenge Projects:
 ### 
