@@ -15,7 +15,8 @@ I am an Economist by training and a Data Scientist by profession. My main resear
 ## SQL Challenge Projects:
 
 # 📊 My Creativity Projetcs (WIP)
-🌱 Graph Visualizatioon & Report Design [Facing challenges, finding opportunity: Young people in Canada navigating a new employment reality](https://uwaterloo.ca/youth-and-innovation/our-research/facing-challenges-finding-opportunity-young-people-canada)
+🌱 Graph Visualizatioon & Report Design: [Facing challenges, finding opportunity: Young people in Canada navigating a new employment reality](https://uwaterloo.ca/youth-and-innovation/our-research/facing-challenges-finding-opportunity-young-people-canada)
+🌱 Email Design:
 
 
 
